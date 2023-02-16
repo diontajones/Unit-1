@@ -121,9 +121,17 @@ cd
 
 
 ### Step 4
+(base) diontajones@Diontas-MBP unit1-git-practice % git init
+(base) diontajones@Diontas-MBP unit1-git-practice % git add .
+(base) diontajones@Diontas-MBP unit1-git-practice % git commit -m 'first commit'
 
 
 ### Step 5
+(base) diontajones@Diontas-MBP unit1-git-practice % git remote add origin https://github.com/diontajones/Unit-1.git
+git branch -M main
+git push -u origin main
+Username for 'https://github.com': diontajones
+Password for 'https://diontajones@github.com': 
 
 
 ### Step 6
