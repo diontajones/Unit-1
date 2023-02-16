@@ -135,6 +135,10 @@ Password for 'https://diontajones@github.com':
 
 
 ### Step 6
+(base) diontajones@Diontas-MBP unit1-git-practice % git add .
+(base) diontajones@Diontas-MBP unit1-git-practice % git commit -m 'first update'
+(base) diontajones@Diontas-MBP unit1-git-practice % git push
+
 
 
 ### Step 7
